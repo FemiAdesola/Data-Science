@@ -6,3 +6,7 @@
 ## Human Resources Department
 
 ## Marketing Department Data analysis
+
+## Sales Department
+
+## Operations Department
