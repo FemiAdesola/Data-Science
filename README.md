@@ -70,3 +70,7 @@ Source: https://toggl.com/blog/cost-of-hiring-an-employee
 
 ### Result
 [Public Relation Department](/Public_Relations_Department.ipynb)
+
+### Positive words
+
+![Positive_words](/img/Positive_words.png)
